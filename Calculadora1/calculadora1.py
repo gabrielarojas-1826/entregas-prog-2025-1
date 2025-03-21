@@ -22,7 +22,7 @@ def multiplicar(a, b):
     return a * b
 
 def dividir(a, b):
-    if b != 0:
+    if b == 0:
         return a / b
     else:
         return "Error: No se puede dividir entre 0"
@@ -68,4 +68,5 @@ def run():
 # **** Conserve este condicional para ejecutar el programa directamente
 if __name__ == "__main__":
     run()
+
 
