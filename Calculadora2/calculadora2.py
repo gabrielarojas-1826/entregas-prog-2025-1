@@ -1,3 +1,11 @@
+"""
+calculadora2
+
+Descripción extendida del programa: Prototipo de calculadora basica extendido
+
+Autor: yulied gabriela rojas rojas <paulina021@hotmail.com>
+Fecha: 2025-10-04
+"""
 print ('Hello World')
 def obtener_operacion():
     print("\nOperaciones disponibles:")
